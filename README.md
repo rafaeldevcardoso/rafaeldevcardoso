@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hey everyone! My name is Rafael,  I'm a beginner in programming, focused on the Javascript Stack. I actually started in mid 2019. I'm currently learning about React for front-end optimization and NodeJS with relational database, and later, non-relational.
+
 <!--
 **rafaeldevcardoso/rafaeldevcardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
